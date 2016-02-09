@@ -14,6 +14,7 @@
 		2ACCB65C1C6A8B5900082105 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2ACCB65A1C6A8B5900082105 /* LaunchScreen.storyboard */; };
 		2ACCB6671C6A8B5900082105 /* PhotoFiltersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ACCB6661C6A8B5900082105 /* PhotoFiltersTests.swift */; };
 		2ACCB6721C6A8B5900082105 /* PhotoFiltersUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ACCB6711C6A8B5900082105 /* PhotoFiltersUITests.swift */; };
+		2ACCB6801C6A8C4400082105 /* silicon-valley.png in Resources */ = {isa = PBXBuildFile; fileRef = 2ACCB67F1C6A8C4400082105 /* silicon-valley.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		2ACCB66D1C6A8B5900082105 /* PhotoFiltersUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotoFiltersUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2ACCB6711C6A8B5900082105 /* PhotoFiltersUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoFiltersUITests.swift; sourceTree = "<group>"; };
 		2ACCB6731C6A8B5900082105 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2ACCB67F1C6A8C4400082105 /* silicon-valley.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "silicon-valley.png"; path = "../../../Pictures/silicon-valley.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		2ACCB6501C6A8B5900082105 /* PhotoFilters */ = {
 			isa = PBXGroup;
 			children = (
+				2ACCB67F1C6A8C4400082105 /* silicon-valley.png */,
 				2ACCB6511C6A8B5900082105 /* AppDelegate.swift */,
 				2ACCB6531C6A8B5900082105 /* ViewController.swift */,
 				2ACCB6551C6A8B5900082105 /* Main.storyboard */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2ACCB6801C6A8C4400082105 /* silicon-valley.png in Resources */,
 				2ACCB65C1C6A8B5900082105 /* LaunchScreen.storyboard in Resources */,
 				2ACCB6591C6A8B5900082105 /* Assets.xcassets in Resources */,
 				2ACCB6571C6A8B5900082105 /* Main.storyboard in Resources */,
